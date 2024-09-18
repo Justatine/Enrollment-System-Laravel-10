@@ -1,0 +1,60 @@
+nav {
+  background-color: rgb(199, 142, 51);
+}
+
+nav img {
+  height: 50px;
+}
+
+.carousel img {
+  height: 700px;
+  object-fit: cover;
+}
+
+.carousel-caption {
+  background-color: rgba(224, 215, 202, 0.692);
+  border-radius: 20px;
+}
+
+.apply {
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.content {
+  background-color: rgb(244, 228, 201);
+
+}
+
+.line {
+  background-color: rgb(255, 255, 255);
+  height: 10px;
+}
+
+footer {
+  color: rgb(244, 228, 201);
+  background-color: rgb(199, 142, 51);
+  height: auto;
+  padding-bottom: 40px;
+  padding-top: 20px;
+  margin-top: 10px;
+}
+
+.logofooter {
+  height: 150px;
+}
+
+.sc img {
+  height: 30px;
+}
+
+.userprof {
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+section {
+  height: 80vh;
+}
